@@ -1,0 +1,12 @@
+# 3D assets are binary: mark them as such so git never tries a textual diff
+# or applies line-ending conversion to them.
+*.blend   binary
+*.glb     binary
+*.png     binary
+*.jpg     binary
+
+# Text files: force LF so the repo stays clean on Windows
+*.md           text eol=lf
+*.json         text eol=lf
+*.gitattributes text eol=lf
+*.gitignore    text eol=lf
