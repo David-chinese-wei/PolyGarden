@@ -1,0 +1,581 @@
+{
+ "count": 55,
+ "assets": [
+  {
+   "name": "bird",
+   "group": "character_humanoid",
+   "rig": true,
+   "tris": 23332,
+   "verts": 21722,
+   "height_m": 1.97,
+   "blend_mb": 2.13,
+   "glb_mb": 1.87,
+   "bones": 20,
+   "rig_glb_kb": 5.5
+  },
+  {
+   "name": "cat",
+   "group": "character_humanoid",
+   "rig": true,
+   "tris": 23332,
+   "verts": 18366,
+   "height_m": 1.93,
+   "blend_mb": 1.91,
+   "glb_mb": 1.6,
+   "bones": 20,
+   "rig_glb_kb": 5.5
+  },
+  {
+   "name": "dog",
+   "group": "character_humanoid",
+   "rig": true,
+   "tris": 23332,
+   "verts": 19375,
+   "height_m": 1.95,
+   "blend_mb": 2.0,
+   "glb_mb": 1.7,
+   "bones": 20,
+   "rig_glb_kb": 5.4
+  },
+  {
+   "name": "fox",
+   "group": "character_humanoid",
+   "rig": true,
+   "tris": 23332,
+   "verts": 18089,
+   "height_m": 1.93,
+   "blend_mb": 1.93,
+   "glb_mb": 1.61,
+   "bones": 20,
+   "rig_glb_kb": 5.4
+  },
+  {
+   "name": "human",
+   "group": "character_humanoid",
+   "rig": true,
+   "tris": 23332,
+   "verts": 19033,
+   "height_m": 1.92,
+   "blend_mb": 1.88,
+   "glb_mb": 1.65,
+   "bones": 20,
+   "rig_glb_kb": 5.8
+  },
+  {
+   "name": "snake",
+   "group": "character_humanoid",
+   "rig": true,
+   "tris": 23332,
+   "verts": 18358,
+   "height_m": 1.97,
+   "blend_mb": 1.97,
+   "glb_mb": 1.67,
+   "bones": 20,
+   "rig_glb_kb": 5.8
+  },
+  {
+   "name": "tree",
+   "group": "character_humanoid",
+   "rig": true,
+   "tris": 23332,
+   "verts": 24800,
+   "height_m": 1.93,
+   "blend_mb": 2.37,
+   "glb_mb": 2.22,
+   "bones": 20,
+   "rig_glb_kb": 5.7
+  },
+  {
+   "name": "bird_beast",
+   "group": "character_beast",
+   "rig": true,
+   "tris": 23332,
+   "verts": 20926,
+   "height_m": 1.94,
+   "blend_mb": 2.21,
+   "glb_mb": 1.92,
+   "bones": 20,
+   "rig_glb_kb": 5.6
+  },
+  {
+   "name": "cat_beast",
+   "group": "character_beast",
+   "rig": true,
+   "tris": 23332,
+   "verts": 18245,
+   "height_m": 1.92,
+   "blend_mb": 1.89,
+   "glb_mb": 1.55,
+   "bones": 20,
+   "rig_glb_kb": 5.3
+  },
+  {
+   "name": "dog_beast",
+   "group": "character_beast",
+   "rig": true,
+   "tris": 23332,
+   "verts": 21366,
+   "height_m": 1.78,
+   "blend_mb": 2.16,
+   "glb_mb": 1.88,
+   "bones": 20,
+   "rig_glb_kb": 5.3
+  },
+  {
+   "name": "fox_beast",
+   "group": "character_beast",
+   "rig": true,
+   "tris": 23332,
+   "verts": 18077,
+   "height_m": 1.99,
+   "blend_mb": 1.98,
+   "glb_mb": 1.62,
+   "bones": 20,
+   "rig_glb_kb": 5.3
+  },
+  {
+   "name": "snake_beast",
+   "group": "character_beast",
+   "rig": true,
+   "tris": 23332,
+   "verts": 16640,
+   "height_m": 1.98,
+   "blend_mb": 1.88,
+   "glb_mb": 1.52,
+   "bones": 20,
+   "rig_glb_kb": 5.5
+  },
+  {
+   "name": "tree_beast",
+   "group": "character_beast",
+   "rig": true,
+   "tris": 23332,
+   "verts": 16136,
+   "height_m": 1.96,
+   "blend_mb": 1.84,
+   "glb_mb": 1.46,
+   "bones": 20,
+   "rig_glb_kb": 6.0
+  },
+  {
+   "name": "16",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 22268,
+   "height_m": 1.67,
+   "blend_mb": 1.66,
+   "glb_mb": 1.58
+  },
+  {
+   "name": "176",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 23430,
+   "height_m": 1.32,
+   "blend_mb": 1.61,
+   "glb_mb": 1.57
+  },
+  {
+   "name": "53",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 17188,
+   "height_m": 0.66,
+   "blend_mb": 1.48,
+   "glb_mb": 1.33
+  },
+  {
+   "name": "6",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 19684,
+   "height_m": 1.9,
+   "blend_mb": 1.53,
+   "glb_mb": 1.37
+  },
+  {
+   "name": "62",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 27065,
+   "height_m": 1.9,
+   "blend_mb": 1.74,
+   "glb_mb": 1.78
+  },
+  {
+   "name": "8",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 21713,
+   "height_m": 1.9,
+   "blend_mb": 1.6,
+   "glb_mb": 1.49
+  },
+  {
+   "name": "boar",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 21714,
+   "height_m": 1.41,
+   "blend_mb": 1.54,
+   "glb_mb": 1.41
+  },
+  {
+   "name": "cactus",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 16891,
+   "height_m": 1.9,
+   "blend_mb": 1.56,
+   "glb_mb": 1.35
+  },
+  {
+   "name": "deer",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 19799,
+   "height_m": 1.9,
+   "blend_mb": 1.49,
+   "glb_mb": 1.34
+  },
+  {
+   "name": "flower_white",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 16659,
+   "height_m": 1.9,
+   "blend_mb": 1.38,
+   "glb_mb": 1.16
+  },
+  {
+   "name": "fox_1",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 17557,
+   "height_m": 1.65,
+   "blend_mb": 1.47,
+   "glb_mb": 1.26
+  },
+  {
+   "name": "hedgehog",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 24128,
+   "height_m": 1.77,
+   "blend_mb": 1.66,
+   "glb_mb": 1.59
+  },
+  {
+   "name": "monkey",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 20980,
+   "height_m": 1.78,
+   "blend_mb": 1.6,
+   "glb_mb": 1.48
+  },
+  {
+   "name": "pheasant",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 17864,
+   "height_m": 1.87,
+   "blend_mb": 1.45,
+   "glb_mb": 1.25
+  },
+  {
+   "name": "rabbit",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 17347,
+   "height_m": 1.9,
+   "blend_mb": 1.45,
+   "glb_mb": 1.23
+  },
+  {
+   "name": "raccoon",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 18818,
+   "height_m": 1.62,
+   "blend_mb": 1.52,
+   "glb_mb": 1.34
+  },
+  {
+   "name": "squirrel",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 17243,
+   "height_m": 1.79,
+   "blend_mb": 1.5,
+   "glb_mb": 1.29
+  },
+  {
+   "name": "wolf",
+   "group": "creature",
+   "rig": false,
+   "tris": 23332,
+   "verts": 21708,
+   "height_m": 1.63,
+   "blend_mb": 1.49,
+   "glb_mb": 1.37
+  },
+  {
+   "name": "sapling",
+   "group": "vegetation",
+   "rig": false,
+   "tris": 23332,
+   "verts": 15216,
+   "height_m": 1.9,
+   "blend_mb": 1.26,
+   "glb_mb": 1.03
+  },
+  {
+   "name": "tree_autumn",
+   "group": "vegetation",
+   "rig": false,
+   "tris": 23332,
+   "verts": 35204,
+   "height_m": 1.9,
+   "blend_mb": 2.06,
+   "glb_mb": 2.23
+  },
+  {
+   "name": "tree_gold",
+   "group": "vegetation",
+   "rig": false,
+   "tris": 23332,
+   "verts": 30851,
+   "height_m": 1.91,
+   "blend_mb": 1.73,
+   "glb_mb": 1.79
+  },
+  {
+   "name": "tree_pine",
+   "group": "vegetation",
+   "rig": false,
+   "tris": 23332,
+   "verts": 17445,
+   "height_m": 1.9,
+   "blend_mb": 1.39,
+   "glb_mb": 1.19
+  },
+  {
+   "name": "tree_snow",
+   "group": "vegetation",
+   "rig": false,
+   "tris": 23332,
+   "verts": 22076,
+   "height_m": 1.9,
+   "blend_mb": 1.53,
+   "glb_mb": 1.43
+  },
+  {
+   "name": "crop_carrot",
+   "group": "farm",
+   "rig": false,
+   "tris": 23332,
+   "verts": 24773,
+   "height_m": 1.73,
+   "blend_mb": 1.66,
+   "glb_mb": 1.64
+  },
+  {
+   "name": "crop_lettuce",
+   "group": "farm",
+   "rig": false,
+   "tris": 23332,
+   "verts": 21700,
+   "height_m": 0.94,
+   "blend_mb": 1.61,
+   "glb_mb": 1.5
+  },
+  {
+   "name": "crop_pumpkin",
+   "group": "farm",
+   "rig": false,
+   "tris": 23332,
+   "verts": 20807,
+   "height_m": 1.21,
+   "blend_mb": 1.61,
+   "glb_mb": 1.49
+  },
+  {
+   "name": "crop_rice",
+   "group": "farm",
+   "rig": false,
+   "tris": 23332,
+   "verts": 32439,
+   "height_m": 1.9,
+   "blend_mb": 1.72,
+   "glb_mb": 1.87
+  },
+  {
+   "name": "crop_tomato",
+   "group": "farm",
+   "rig": false,
+   "tris": 23332,
+   "verts": 20989,
+   "height_m": 1.9,
+   "blend_mb": 1.39,
+   "glb_mb": 1.28
+  },
+  {
+   "name": "crop_wheat",
+   "group": "farm",
+   "rig": false,
+   "tris": 23332,
+   "verts": 30268,
+   "height_m": 1.9,
+   "blend_mb": 1.85,
+   "glb_mb": 1.94
+  },
+  {
+   "name": "fruit_apple",
+   "group": "farm",
+   "rig": false,
+   "tris": 23332,
+   "verts": 13651,
+   "height_m": 1.9,
+   "blend_mb": 1.4,
+   "glb_mb": 1.13
+  },
+  {
+   "name": "core_fire",
+   "group": "ore_core",
+   "rig": false,
+   "tris": 23332,
+   "verts": 16468,
+   "height_m": 1.9,
+   "blend_mb": 1.31,
+   "glb_mb": 1.11
+  },
+  {
+   "name": "core_gold",
+   "group": "ore_core",
+   "rig": false,
+   "tris": 23332,
+   "verts": 15649,
+   "height_m": 1.9,
+   "blend_mb": 1.27,
+   "glb_mb": 1.03
+  },
+  {
+   "name": "core_rock",
+   "group": "ore_core",
+   "rig": false,
+   "tris": 23332,
+   "verts": 19727,
+   "height_m": 1.9,
+   "blend_mb": 1.55,
+   "glb_mb": 1.41
+  },
+  {
+   "name": "core_water",
+   "group": "ore_core",
+   "rig": false,
+   "tris": 23332,
+   "verts": 15711,
+   "height_m": 1.9,
+   "blend_mb": 1.29,
+   "glb_mb": 1.06
+  },
+  {
+   "name": "core_wood",
+   "group": "ore_core",
+   "rig": false,
+   "tris": 23332,
+   "verts": 24844,
+   "height_m": 1.9,
+   "blend_mb": 1.7,
+   "glb_mb": 1.65
+  },
+  {
+   "name": "ingot_gold",
+   "group": "ore_core",
+   "rig": false,
+   "tris": 23332,
+   "verts": 14443,
+   "height_m": 0.7,
+   "blend_mb": 1.37,
+   "glb_mb": 1.14
+  },
+  {
+   "name": "ingot_iron",
+   "group": "ore_core",
+   "rig": false,
+   "tris": 23332,
+   "verts": 15188,
+   "height_m": 0.85,
+   "blend_mb": 1.41,
+   "glb_mb": 1.2
+  },
+  {
+   "name": "ore_gold",
+   "group": "ore_core",
+   "rig": false,
+   "tris": 23332,
+   "verts": 16301,
+   "height_m": 1.59,
+   "blend_mb": 1.43,
+   "glb_mb": 1.22
+  },
+  {
+   "name": "ore_iron",
+   "group": "ore_core",
+   "rig": false,
+   "tris": 23332,
+   "verts": 14118,
+   "height_m": 1.73,
+   "blend_mb": 1.48,
+   "glb_mb": 1.22
+  },
+  {
+   "name": "plank",
+   "group": "wood",
+   "rig": false,
+   "tris": 23332,
+   "verts": 15952,
+   "height_m": 0.18,
+   "blend_mb": 1.44,
+   "glb_mb": 1.24
+  },
+  {
+   "name": "wood_log",
+   "group": "wood",
+   "rig": false,
+   "tris": 23332,
+   "verts": 14949,
+   "height_m": 1.08,
+   "blend_mb": 1.5,
+   "glb_mb": 1.26
+  },
+  {
+   "name": "wood_pickaxe",
+   "group": "wood",
+   "rig": false,
+   "tris": 23332,
+   "verts": 17677,
+   "height_m": 1.9,
+   "blend_mb": 1.43,
+   "glb_mb": 1.24
+  }
+ ]
+}
